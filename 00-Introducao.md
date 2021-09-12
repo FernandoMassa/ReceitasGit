@@ -25,7 +25,8 @@
 | git status                                           | Vai mostrar o Status do repositório, ou seja... se tem <br />coisa pra commitar ou não. |
 | git commit -m "mensagem"                             | Este comando é o que de fato vai jogar as informações <br />para o repositório. Coloque uma mensagem o mais<br />descritiva possível. |
 | **E se eu quiser voltar para um commit anterior?**   | Daí terá que digitar os comandos abaixo.                     |
-| git reset --hard [id commit]                         | Então, ali no id do commit, é digitado o id que o git <br />mostra para cada commit. <br />Exemplo: <br /> |
+| git reset --hard [id commit]                         | Então, ali no id do commit, é digitado o id que o git <br />mostra para cada commit. <br />Exemplo: <br />[master **555db00**] Commit 2 com ajustes nos textos<br />Então... o codigo Alfanumérico em negrito é o id<br />do commit. |
+|                                                      |                                                              |
 
 
 
